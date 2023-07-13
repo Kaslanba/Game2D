@@ -2,7 +2,6 @@
 
 Images from the game:
 
-![image](https://github.com/Kaslanba/Game2D/assets/109238222/f644e228-f369-4269-98a4-379f9c74dd24)
 
 ![image](https://github.com/Kaslanba/Game2D/assets/109238222/ac3fa061-8e12-4299-9c58-d9b27a4de4d3)
 ![image](https://github.com/Kaslanba/Game2D/assets/109238222/6cd15a5b-4947-49f1-a347-bcb2dd526917)
